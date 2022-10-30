@@ -3,6 +3,7 @@
 
 - Winform .NET Core
 - Entity Framework Core - Code First Approach
+- Generic Repository Pattern
 - SQL Server
 - LiveCharts
 
