@@ -7,7 +7,7 @@
 - LiveCharts
 
 
-## Features
+## Images
 
 ![](https://raw.githubusercontent.com/nhipham9420/TourManagement/master/image/home.png)
 ![](https://raw.githubusercontent.com/nhipham9420/TourManagement/master/image/tk.png)
