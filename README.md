@@ -1,8 +1,8 @@
 
 ## Tech Stack
 
-- Winform .NET Core,
-- Entity Framework Core - Code First Approach,
+- Winform .NET Core
+- Entity Framework Core - Code First Approach
 - SQL Server
 - LiveCharts
 
